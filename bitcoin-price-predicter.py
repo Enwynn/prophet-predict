@@ -1,7 +1,7 @@
 import pandas as pd
 from prophet import Prophet
 
-# Link below is the link to a guide on multivariate modelling using additional regression
+# Link below is to a guide on multivariate modelling using additional regression
 # https://facebook.github.io/prophet/docs/seasonality,_holiday_effects,_and_regressors.html#additional-regressors
 
 
